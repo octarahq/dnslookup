@@ -1,0 +1,45 @@
+{
+  "name": "@octarahq/dnslookup",
+  "version": "1.0.0",
+  "description": "An enhanced DNS resolution module for Node.js with caching and structured responses.",
+  "keywords": [
+    "dns",
+    "node-dns",
+    "cache",
+    "resolver",
+    "typescript",
+    "performance",
+    "network"
+  ],
+  "homepage": "https://github.com/octarahq/dnslookup#readme",
+  "bugs": {
+    "url": "https://github.com/octarahq/dnslookup/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octarahq/dnslookup.git"
+  },
+  "license": "ISC",
+  "author": "octarahq",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./resolver": "./dist/resolver.js",
+    "./cache": "./dist/cache.js"
+  },
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
