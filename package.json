@@ -30,6 +30,9 @@
     "./resolver": "./dist/resolver.js",
     "./cache": "./dist/cache.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist/"
   ],
