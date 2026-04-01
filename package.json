@@ -1,6 +1,6 @@
 {
   "name": "@octarahq/dnslookup",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "An enhanced DNS resolution module for Node.js with caching and structured responses.",
   "keywords": [

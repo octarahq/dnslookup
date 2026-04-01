@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://octara.xyz/favicon.svg" width="200" alt="DnsLookup Logo">
+    <img src="https://tools.octara.xyz/favicon.png" width="200" alt="DnsLookup Logo">
     <h1>DnsLookup</h1>
     <p>
         <a href="https://github.com/octarahq/dnslookup/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/octarahq/dnslookup?logo=github&logoColor=ffffff" /></a>
